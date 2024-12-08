@@ -1,6 +1,6 @@
-#Project2_Food Resturant Home Page
+# Project2_Food Resturant Home Page
 
-###By Ulka Dedwal
+### By Ulka Dedwal
 ## Livelink:-> [FoodRestaurantHomePage](http://127.0.0.1:5500/index.html)
 ## What i learned from this project?
 This project gave me good leanrning experience.
